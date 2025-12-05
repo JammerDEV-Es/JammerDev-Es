@@ -17,7 +17,6 @@ Specifically, I'm learning:
 
 
 
-And i'm also learning about Social Engineering.
 
 I make some projects.
 
