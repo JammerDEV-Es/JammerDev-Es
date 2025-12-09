@@ -3,8 +3,9 @@
 Specifically, I'm learning: 
 - Code (Frontend, Backend, Python)
 - Pentesting (Network, Web, IoT)
-- Hardware development (Raspberry Pi, Arduino)
 - Reverse Engineering (IDA, Ghidra)
+- Hardware development (Raspberry Pi, Arduino)
+
 
   
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%20Learning-red?logo=HTML5&logoColor=red&style=plasticlogo=CSS&logoColor=blue&labelColor=white&color=red">   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%20Learning-red?&labelColor=white&logo=CSS&logoColor=blue&color=blue">
