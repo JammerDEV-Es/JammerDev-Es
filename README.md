@@ -3,8 +3,6 @@
 Specifically, I'm learning: 
 - Code (Frontend, Backend, Python)
 - Pentesting (Network, Web, IoT)
-- Reverse Engineering (IDA, Ghidra)
-- Hardware development (Raspberry Pi, Arduino)
 
 
   
