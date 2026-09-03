@@ -1,5 +1,5 @@
 ## Hello, i'm JammerDev.
-### I'm just learning about every subject I can get my hands on, all I seek is knowledge.
+### I'm just learning about every subject I can get my hands on.
 Specifically, I'm learning: 
 - Code (Frontend, Backend, Python)
 - Pentesting (Network, Web, IoT)
